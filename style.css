@@ -2,11 +2,19 @@ body {
   background-color: pink; }
   h1 {
     color:rgb(0, 0, 0); 
-    font-size: larger; }
+    font-size: larger; 
+    font-family: georgia;
+    }
+h3 {
+  color:rgb(0, 0, 0); 
+    font-size: normal; 
+    font-family: georgia;
     p {
       color:rgb(0, 0, 0);
       font-size:medium;
+      font-family: georgia;
     }
+  
 
 a:link {
   color: black;
