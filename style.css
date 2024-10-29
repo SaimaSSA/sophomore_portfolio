@@ -7,7 +7,7 @@ body {
       color:rgb(0, 0, 0);
       font-size:medium;
     }
-<style>
+
 a:link {
   color: black;
   background-color: transparent;
@@ -31,4 +31,4 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
-</style>
+
