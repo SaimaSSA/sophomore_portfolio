@@ -3,16 +3,16 @@ body {
   h1 {
     color:rgb(0, 0, 0); 
     font-size: 30px; 
-    font-family: philosopher;
+    font-family: georgia;
     }
 h3 {
   color:rgb(0, 0, 0); 
     font-size: normal; 
-    font-family: philosopher;
+    font-family: georgia;
     p {
       color:rgb(0, 0, 0);
       font-size:medium;
-      font-family: philosopher;
+      font-family: georgia;
     }
 
 a:link {
