@@ -14,7 +14,8 @@ h3 {
       font-size:medium;
       font-family: philosopher;
     }
-  
+  img {
+    float: right; 
 
 a:link {
   color: black;
