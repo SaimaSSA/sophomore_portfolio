@@ -1,1 +1,1 @@
-# sophmore_portfolio
+# sophomore_portfolio
