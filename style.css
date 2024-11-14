@@ -28,13 +28,13 @@ a:visited {
 }
 
 a:hover {
-  color: black;
+  color: rgb(255, 225, 236);
   background-color: transparent;
   text-decoration: none;
 }
 
 a:active {
-  color: black;
+  color: rgb(255, 225, 236);
   background-color: transparent;
   text-decoration: none;
 }
