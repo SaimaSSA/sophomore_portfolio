@@ -13,7 +13,12 @@
 
 
 /* storytelling flowchart image style */
-
+.comics{
+display:flex; 
+  flex-direction: row; 
+  flex-wrap:wrap; 
+  justify-content: space-between; 
+}
 
 
 /* layout style for protagonist image and information*/
