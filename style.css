@@ -18,13 +18,13 @@ h3 {
 a:link {
   color:rgb(255, 225, 236);
   background-color: transparent;
-  text-decoration: under line;
+  text-decoration: underline;
 }
 
 a:visited {
   color:rgb(255, 225, 236);
   background-color: transparent;
-  text-decoration: under line;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -36,5 +36,5 @@ a:hover {
 a:active {
   color: rgb(255, 255, 255);
   background-color: transparent;
-  text-decoration: under line;
+  text-decoration: underline;
 }
