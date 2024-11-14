@@ -14,7 +14,7 @@ h3 {
       font-size:medium;
       font-family: georgia;
     }
-
+<style>
 a:link {
   color: black;
   background-color: transparent;
@@ -38,4 +38,4 @@ a:active {
   background-color: transparent;
   text-decoration: none;
 }
-
+</style>
