@@ -14,32 +14,27 @@ h3 {
       font-size:medium;
       font-family: georgia;
     }
-  
 
 a:link {
+  color: white ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
   color: white;
   background-color: transparent;
   text-decoration: underline;
 }
-
-a:visited {
-  color: #DBE9FA;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
 a:hover {
-  color: #98AFC7;
+  color: yellow;
   background-color: transparent;
   text-decoration: underline;
 }
-
 a:active {
-  color: #77BFC7;
+  color: red;
   background-color: transparent;
   text-decoration: underline;
 }
-
 /*Navigation bar*/
 ul {
   list-style-type: none;
