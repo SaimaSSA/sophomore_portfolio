@@ -68,10 +68,11 @@ display:flex;
 
 
 /* style for paragraph in image citation container */
-  .orbitron-<orbitron> {
-  font-family: "Orbitron", sans-serif;
+  
+.orbitron-<uniquifier> {
+  font-family: "Orbitron", serif;
   font-optical-sizing: auto;
-  font-weight: <700>;
+  font-weight: 700;
   font-style: normal;
 }
 
