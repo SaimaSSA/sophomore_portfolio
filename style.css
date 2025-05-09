@@ -15,7 +15,7 @@ h3 {
       font-family: georgia;
     }
 iframe {
-  <iframe src="demo_iframe.htm" height="600" width="600" title="Iframe Example"></iframe>
+  <iframe src="demo_iframe.htm" height="1000" width="1000" title="Iframe Example"></iframe>
   }
 a:link {
   color: white ;
